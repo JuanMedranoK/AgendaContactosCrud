@@ -1,0 +1,17 @@
+C:\Users\Maribel-Ciprian\source\repos\ProyectoCRUD\Dato\bin\Debug\Dato.dll
+C:\Users\Maribel-Ciprian\source\repos\ProyectoCRUD\Dato\bin\Debug\Dato.pdb
+C:\Users\Maribel-Ciprian\source\repos\ProyectoCRUD\Dato\bin\Debug\Entidad.dll
+C:\Users\Maribel-Ciprian\source\repos\ProyectoCRUD\Dato\bin\Debug\Entidad.pdb
+C:\Users\Maribel-Ciprian\source\repos\ProyectoCRUD\Dato\obj\Debug\Dato.csprojAssemblyReference.cache
+C:\Users\Maribel-Ciprian\source\repos\ProyectoCRUD\Dato\obj\Debug\Dato.csproj.CoreCompileInputs.cache
+C:\Users\Maribel-Ciprian\source\repos\ProyectoCRUD\Dato\obj\Debug\Dato.csproj.CopyComplete
+C:\Users\Maribel-Ciprian\source\repos\ProyectoCRUD\Dato\obj\Debug\Dato.dll
+C:\Users\Maribel-Ciprian\source\repos\ProyectoCRUD\Dato\obj\Debug\Dato.pdb
+C:\Users\Maribel-Ciprian\source\repos\ProyectoCRUD\Dato\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Maribel-Ciprian\source\repos\ProyectoCRUD\Dato\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Maribel-Ciprian\source\repos\ProyectoCRUD\Dato\bin\Debug\System.Security.Permissions.dll
+C:\Users\Maribel-Ciprian\source\repos\ProyectoCRUD\Dato\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Maribel-Ciprian\source\repos\ProyectoCRUD\Dato\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Maribel-Ciprian\source\repos\ProyectoCRUD\Dato\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Maribel-Ciprian\source\repos\ProyectoCRUD\Dato\bin\Debug\System.Security.Permissions.xml
+C:\Users\Maribel-Ciprian\source\repos\ProyectoCRUD\Dato\bin\Debug\System.Security.Principal.Windows.xml

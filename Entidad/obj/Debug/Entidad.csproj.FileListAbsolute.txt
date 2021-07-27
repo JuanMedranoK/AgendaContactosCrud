@@ -1,0 +1,6 @@
+C:\Users\Maribel-Ciprian\source\repos\ProyectoCRUD\Entidad\bin\Debug\Entidad.dll
+C:\Users\Maribel-Ciprian\source\repos\ProyectoCRUD\Entidad\bin\Debug\Entidad.pdb
+C:\Users\Maribel-Ciprian\source\repos\ProyectoCRUD\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+C:\Users\Maribel-Ciprian\source\repos\ProyectoCRUD\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\Maribel-Ciprian\source\repos\ProyectoCRUD\Entidad\obj\Debug\Entidad.dll
+C:\Users\Maribel-Ciprian\source\repos\ProyectoCRUD\Entidad\obj\Debug\Entidad.pdb
